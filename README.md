@@ -24,6 +24,5 @@ timeago.set_language('hy')
 timeago.format(now - (60 * 5)) -- Return '5 րոպե առաջ'
 ```
 
-<br>
 ---
 Thanks to [wscherphof/lua-timeago](https://github.com/wscherphof/lua-timeago)
