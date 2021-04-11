@@ -1,6 +1,9 @@
 # lua-timeago
 Simple Lua library library for displaying dates as relative time ago language 
 
+## Installation
+You can just copy the source files into your project or use the [rock](https://luarocks.org/modules/f-person/lua-timeago) with [luarocks](https://luarocks.org/).
+
 ## Basic Usage
 ```lua
 local timeago = require('lua-timeago')
